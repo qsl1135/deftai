@@ -105,10 +105,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [Website](https://deft.ai)
-- [Documentation](https://docs.deft.ai)
-- [Twitter](https://twitter.com/DeftAnalytics)
-- [Discord](https://discord.gg/deft)
+- [Website](https://deftai.fun)
+- [Twitter](https://twitter.com/DeftAISol)
 
 ## ⚡ Performance
 
@@ -129,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-For support, please join our [Discord community](https://discord.gg/deft) or email support@deft.ai.
+For support, please open an issue.
 
 ## ⚠️ Disclaimer
 
